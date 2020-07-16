@@ -10,6 +10,7 @@ This is a collection of links and tools that can be useful for Development or De
 - [FlatIcon](https://www.flaticon.com/) - Free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 - [icons8](https://icons8.com/) - Free Icons, Photos,
 Vectors, Music, and Tools
+- [EMOJIOUS](https://www.emojious.com/) - Collection of hand-crafted and carrefuly selected icons. 
 
 ### Illustrations
 - [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create.
@@ -18,10 +19,13 @@ Vectors, Music, and Tools
 
 #### Colors
 - [Happy Hues](https://www.happyhues.co/) - A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
+- [Culr](https://www.culrs.com/) - Curated collection of color palettes. 
+
 
 
 #### Others
 - [UI Garage](https://uigarage.net/) - Daily handpicked UI inspiration & patterns.
+- [UpLabs](https://www.uplabs.com/) - High-quality design resources for designers, creative agencies and developers.
 
 ***
 ### :desktop_computer: Code
@@ -42,6 +46,7 @@ Vectors, Music, and Tools
 
 #### Browsers 
 - [Responsively](https://responsively.app/) - A modified browser built using Electron that helps in responsive web development.
+- [Blisk](https://blisk.io/) - A development workspace for teams and freelancers to develop and test modern web applications twice faster.
 
 #### Text Editors
 
