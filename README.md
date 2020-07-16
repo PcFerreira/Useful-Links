@@ -60,11 +60,8 @@ This is a collection of links and tools that can be useful for Development or De
 
 ##### VSCode
 - [vscodethemes](https://vscodethemes.com/) - Preview themes from the VSCode marketplace.
-
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf) -  Convert Markdown files to pdf, html, png or jpeg files.
-
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - This extension colorizes the indentation in front of your text alternating four different colors on each step.
-
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code.
 
 ##### Others
