@@ -4,12 +4,13 @@
 
 #### Icons
 - [Tabler Icons](https://tablericons.com)
+- [FlatIcon](https://www.flaticon.com/)
 
 #### Colors
-- [UI Garage](https://uigarage.net/)
+- [Happy Hues](https://www.happyhues.co/)
 
 #### Others
-- [Happy Hues](https://www.happyhues.co/)
+- [UI Garage](https://uigarage.net/)
 
 ### Code
 
