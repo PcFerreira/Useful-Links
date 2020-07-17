@@ -46,6 +46,10 @@ This is a collection of links and tools that can be useful for Development or De
 #### Python
 - [Pywinauto](http://pywinauto.github.io/) - GUI automation library.
 
+#### CSS
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Game where you help Froggy and friends by writing CSS code.
+- [Grid Garden](https://cssgridgarden.com/) - Game where you write CSS code to grow your carrot garden.
+
 #### Diagrams
 - [Diagrams](https://app.diagrams.net/) - Flowchart Maker and Online Diagram Software.
 - [dbdiagram](https://dbdiagram.io/home) - A free, simple tool to draw ER diagrams by just writing code.
