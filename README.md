@@ -21,7 +21,7 @@ This is a collection of links and tools that can be useful for Development or De
 ### Images
 - [Placeholders by TwicPics](https://discover.twicpics.com/en/placeholder) - A free service for web designers and developers providing dynamic placeholder images on the fly.
 
-- [Pixelmob ](https://pixelmob.co/) - Find, sort and ‘favorite’ royalty-free images from multiple sources across the web
+- [Pixelmob ](https://pixelmob.co/) - Find, sort and ‘favorite’ royalty-free images from multiple sources across the web.
 
 #### Colors
 - [Happy Hues](https://www.happyhues.co/) - A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
@@ -42,8 +42,8 @@ This is a collection of links and tools that can be useful for Development or De
 - [Standard JS](https://standardjs.com/) - JavaScript style guide, linter, and formatter.
 - [Nexe](https://github.com/nexe/nexe) - A command-line utility that compiles your Node.js application into a single executable file.
 - [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - A collection of curated best practices on how to build successful, empathic and user-friendly Node.js Command Line Interface (CLI) applications.
-- [Rough Notation](https://roughnotation.com/) - A small JavaScript library to create and animate annotations on a web page
-- [Manorisms - Format Javascript Dates](https://elijahmanor.com/format-js-dates-and-times) - Natively Format JavaScript Dates and Times
+- [Rough Notation](https://roughnotation.com/) - A small JavaScript library to create and animate annotations on a web page.
+- [Manorisms - Format Javascript Dates](https://elijahmanor.com/format-js-dates-and-times) - Natively Format JavaScript Dates and Times.
 
 #### Python
 - [Pywinauto](http://pywinauto.github.io/) - GUI automation library.
@@ -51,7 +51,8 @@ This is a collection of links and tools that can be useful for Development or De
 #### CSS
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Game where you help Froggy and friends by writing CSS code.
 - [Grid Garden](https://cssgridgarden.com/) - Game where you write CSS code to grow your carrot garden.
-- [Web.Dev - One line layouts](https://web.dev/one-line-layouts/) - Ten modern layouts in one line of CSS
+- [Web.Dev - One line layouts](https://web.dev/one-line-layouts/) - Ten modern layouts in one line of CSS.
+- [Clippy](https://bennettfeely.com/clippy/) - A tool for making CSS clip paths.
 
 #### Diagrams
 - [Diagrams](https://app.diagrams.net/) - Flowchart Maker and Online Diagram Software.
