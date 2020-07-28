@@ -111,7 +111,7 @@ This is a collection of links and tools that can be useful for Development or De
 
 ***
 ### :stuck_out_tongue_winking_eye: Funny
-[Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Well.. Anime Girls Holding Programming Books?
+- [Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Well.. Anime Girls Holding Programming Books?
 
 ***
 ### :round_pushpin: Others
