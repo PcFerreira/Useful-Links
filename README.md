@@ -44,7 +44,7 @@ This is a collection of links and tools that can be useful for Development or De
 ### :desktop_computer: Code
 
 #### Frameworks
--[Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework, designed for quickly building beautiful dashboards and product pages.
+- [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework, designed for quickly building beautiful dashboards and product pages.
 
 #### Javascript Tools
 - [use JSDoc](https://jsdoc.app/index.html) - JSDoc 3 is an API documentation generator for JavaScript.
