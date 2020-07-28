@@ -10,6 +10,8 @@ This is a collection of links and tools that can be useful for Development or De
 - [FlatIcon](https://www.flaticon.com/) - Free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 - [icons8](https://icons8.com/) - Free Icons, Photos, Vectors, Music, and Tools.
 - [EMOJIOUS](https://www.emojious.com/) - Collection of hand-crafted and carrefuly selected icons. 
+- [Emoji Button](https://emoji-button.js.org/) - Vanilla JavaScript Emoji Picker.
+- [Cryptocurrency Icons](http://cryptoicons.co/) - A set of 435 crypto and fiat currency icons. Completely free.
 
 ### Illustrations
 - [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create.
@@ -17,25 +19,32 @@ This is a collection of links and tools that can be useful for Development or De
 - [Isometric ](https://isometric.online/) - Free isometric illustrations for designers, startups and companies.
 - [Ultimate Avatar Library](https://limitlessdesigns.io/avatar-illustrations/) - A collection of free avatar illustrations for websites and apps.
 - [Clak](https://www.ls.graphics/illustrations/clak) - Beautiful and sweet line illustration pack for Sketch, Figma, Illustrator, Affinity, in eps, svg, png formats.
+- [404 Illustrations](https://error404.fun/) - Royalty free illustrations for 404 pages.
+- [Browser Logos](https://github.com/alrra/browser-logos/) - High resolution web browser logos.
 
 ### Images
 - [Placeholders by TwicPics](https://discover.twicpics.com/en/placeholder) - A free service for web designers and developers providing dynamic placeholder images on the fly.
-
 - [Pixelmob ](https://pixelmob.co/) - Find, sort and ‘favorite’ royalty-free images from multiple sources across the web.
 
 #### Colors
 - [Happy Hues](https://www.happyhues.co/) - A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 - [Culr](https://www.culrs.com/) - Curated collection of color palettes. 
 - [uiGradients](https://uigradients.com/) - A handpicked collection of beautiful color gradients for designers and developers.
+- [ColorSpace](https://mycolor.space/) - Color Palletes Generator and Color Gradient Tool.
 
 
 #### Others
 - [UI Garage](https://uigarage.net/) - Daily handpicked UI inspiration & patterns.
 - [UpLabs](https://www.uplabs.com/) - High-quality design resources for designers, creative agencies and developers.
+- [UI Space](https://uispace.net/) - Free PSD, AI, Fonts and other design related stuff.
+- [Device Shots](https://deviceshots.com/) - Get high-resolution device mockups with the screenshot of your website or mobile application, for free.
+- [Animockup](https://animockup.com/) - Free Animated Mockup Maker.
 
 ***
 ### :desktop_computer: Code
 
+#### Frameworks
+-[Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework, designed for quickly building beautiful dashboards and product pages.
 
 #### Javascript Tools
 - [use JSDoc](https://jsdoc.app/index.html) - JSDoc 3 is an API documentation generator for JavaScript.
@@ -53,6 +62,7 @@ This is a collection of links and tools that can be useful for Development or De
 - [Grid Garden](https://cssgridgarden.com/) - Game where you write CSS code to grow your carrot garden.
 - [Web.Dev - One line layouts](https://web.dev/one-line-layouts/) - Ten modern layouts in one line of CSS.
 - [Clippy](https://bennettfeely.com/clippy/) - A tool for making CSS clip paths.
+- [Shadows](https://brumm.af/shadows) - CSS Shadow Generator.
 
 #### Diagrams
 - [Diagrams](https://app.diagrams.net/) - Flowchart Maker and Online Diagram Software.
@@ -74,7 +84,8 @@ This is a collection of links and tools that can be useful for Development or De
 
 ##### Others
 
-- [StackEdit](https://stackedit.io/) - In-browser Markdown editor
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor.
+- [Hero Generator](https://hero-generator.netlify.app/) - Hero Generator! Create a nice hero image for your site or app.
 
 #### Mocking Data
 - [Mockaroo](https://mockaroo.com/) - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
@@ -90,6 +101,12 @@ This is a collection of links and tools that can be useful for Development or De
 - [OpenEDU](https://github.com/marwahmanbir/OpenEDU) - A repository with resources for 60+ engineering subjects.
 - [NODESCHOOL](https://nodeschool.io/) - Open source workshops that teach web software skills.
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Various tutorials on how to build different tools.
+- [Learn Git Branching](https://learngitbranching.js.org/) - A visual and interactive game to learn Git.
+- [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns.
+
+***
+### :stuck_out_tongue_winking_eye: Funny
+[Anime Girls Holding Programming Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) - Well.. Anime Girls Holding Programming Books?
 
 ***
 ### :round_pushpin: Others
