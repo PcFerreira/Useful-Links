@@ -2,6 +2,7 @@
 
 This is a collection of links and tools that can be useful for Development or Design. 
 
+***
 ### :art: UI/UX
 
 ***
@@ -13,7 +14,9 @@ This is a collection of links and tools that can be useful for Development or De
 - [Emoji Button](https://emoji-button.js.org/) - Vanilla JavaScript Emoji Picker.
 - [Cryptocurrency Icons](http://cryptoicons.co/) - A set of 435 crypto and fiat currency icons. Completely free.
 
-### Illustrations
+
+
+#### Illustrations
 - [unDraw](https://undraw.co) - Open-source illustrations for any idea you can imagine and create.
 - [DrawKit](https://www.drawkit.io/) - Beautiful, free illustrations. Updated weekly.
 - [Isometric ](https://isometric.online/) - Free isometric illustrations for designers, startups and companies.
@@ -22,7 +25,7 @@ This is a collection of links and tools that can be useful for Development or De
 - [404 Illustrations](https://error404.fun/) - Royalty free illustrations for 404 pages.
 - [Browser Logos](https://github.com/alrra/browser-logos/) - High resolution web browser logos.
 
-### Images
+#### Images
 - [Placeholders by TwicPics](https://discover.twicpics.com/en/placeholder) - A free service for web designers and developers providing dynamic placeholder images on the fly.
 - [Pixelmob ](https://pixelmob.co/) - Find, sort and ‘favorite’ royalty-free images from multiple sources across the web.
 
@@ -31,6 +34,9 @@ This is a collection of links and tools that can be useful for Development or De
 - [Culr](https://www.culrs.com/) - Curated collection of color palettes. 
 - [uiGradients](https://uigradients.com/) - A handpicked collection of beautiful color gradients for designers and developers.
 - [ColorSpace](https://mycolor.space/) - Color Palletes Generator and Color Gradient Tool.
+
+#### Fonts
+- [fonts in the wild](https://www.fontsinthewild.com/) - Find the perfect free or paid font for your next project.
 
 
 #### Others
@@ -43,6 +49,7 @@ This is a collection of links and tools that can be useful for Development or De
 ***
 ### :desktop_computer: Code
 
+***
 #### Frameworks
 - [Halfmoon](https://www.gethalfmoon.com/) - A responsive front-end framework, designed for quickly building beautiful dashboards and product pages.
 
@@ -82,16 +89,14 @@ This is a collection of links and tools that can be useful for Development or De
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - This extension colorizes the indentation in front of your text alternating four different colors on each step.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code.
 
-##### Others
+#### Others
 
 - [StackEdit](https://stackedit.io/) - In-browser Markdown editor.
 - [Hero Generator](https://hero-generator.netlify.app/) - Hero Generator! Create a nice hero image for your site or app.
+- [API Spreadsheets](https://apispreadsheets.com/) - Instantly Use Your Spreadsheets as an API and Database.
 
 #### Mocking Data
 - [Mockaroo](https://mockaroo.com/) - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
-
-#### Others
-- [API Spreadsheets](https://apispreadsheets.com/) - Instantly Use Your Spreadsheets as an API and Database.
 
 
 ***
